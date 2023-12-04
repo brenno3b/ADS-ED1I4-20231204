@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VX8hkhOtOGryKJliu6lunkv/nrI4b6iaPKAnbDpkeKszdA5JPZKzvvLpgq20T3hy/t/P2dtZNgLbtESZsZe4Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brenno\\source\\repos\\ADS-ED1I4-20231204\\ADS-ED1I4-20231204.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brenno\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
